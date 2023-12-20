@@ -1,0 +1,16 @@
+[
+    {
+        "Kernel": {
+            "1": []
+        }
+    },
+    {
+        "Concentrated load": {}
+    },
+    {
+        "Distributed load": {}
+    },
+    {
+        "Support": "left"
+    }
+]
